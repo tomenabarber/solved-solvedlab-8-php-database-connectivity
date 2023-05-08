@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solvedlab-8-php-database-connectivity
+<br>
+Introduction We have covered some PHP database connectivity in class. This lab is designed to give you some experience with PHP and MySQL. Insert Messages Form Design a form which looks like the figure below:Display Messages Page Write a php script which will display all messages posted to date. The page should look similar to the figure below: Additional Functionality (Extra Credit) 1. Create a form to allow you to choose whether to add messages or display messages 2. Create a script to allow you to delete a message based upon the subject
